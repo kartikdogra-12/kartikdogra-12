@@ -1,5 +1,8 @@
-### Hi there I am Kartik Dogra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/>
+<div>
+<img align="center" src="https://user-images.githubusercontent.com/72339017/232545742-9594147b-4626-4f3a-b376-5d8cbef6e1eb.jpg">
+</div>
+
+### Hi there I am Kartik Dogra <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](#) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-dogra/)
 
