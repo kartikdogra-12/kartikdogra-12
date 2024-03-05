@@ -13,7 +13,7 @@ I am a pre-final year student pursuing **Bachelor's in Computer Science** from I
 Currently, learning and growing my skillset in the tech. ecosystem!
 
 - 🔭 I’m currently learning **React Js** 
-- 👯 I’m looking to collaborate on Web Developement projects **(Front-end)**
+- 👯 I’m looking to collaborate on Web Development projects **(Front-end)**
 - 💬 Ask me anything related to **tech** and **Open Source**
 - 📫 How to reach me: **dogra12kartik@gmail.com**
 
